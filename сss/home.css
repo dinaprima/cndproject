@@ -31,122 +31,10 @@
     
 }
 .price {
-    position: relative;
     background-color: #ffffff;
     height: 2304px;
     
 }
-/*Ногтевой сервис*/
-.manic{
-    position: absolute;
-    display: block;
-    left: 20%;
-    top: 235px;
-    color:#000000;
-    width: 100%;
-    max-width: 500px;
-    font-family: Roboto Slab;
-    font-style: normal;
-    line-height: 53px;
-}
-
-/*Заголовок*/
-.manic0{
-    font-size: 30px;
-}
-/*Перечень услуг*/
-.manic1{
-    display: inline;
-    font-size: 20px;
-}
-/*Цена*/
-.manic2{    
-    display: inline;
-    font-size: 20px;
-    float: right;
-}
-/*картинка маникюр*/
-.img_manic{
-    position: absolute;
-    width: 319px;
-    height: 415px;
-    left: 55%;
-    top: 235px;
-}
-.hair{
-    position: absolute;
-    display: block;
-    right: 20%;
-    top: 700px;
-    color:#000000;
-    width: 100%;
-    max-width: 500px;
-    font-family: Roboto Slab;
-    font-style: normal;
-    line-height: 37px;
-}
-/*Заголовок*/
-.hair0{
-    font-size: 30px;
-    float: right;
-}
-/*Перечень услуг*/
-.hair1{
-    display: inline;
-    font-size: 20px;
-    float: right;
-}
-/*Цена*/
-.hair2{    
-    display: inline;
-    font-size: 20px;
-    float: left;
-}
-/*картинка волосы*/
-.img_hair{
-    position: absolute;
-    left: 20%;
-    top: 700px;
-    width: 319px;
-    height: 415px;
-}
-/*Ногтевой сервис*/
-.face{
-    position: absolute;
-    display: block;
-    left: 20%;
-    top: 1165px;
-    color:#000000;
-    width: 100%;
-    max-width: 500px;
-    font-family: Roboto Slab;
-    font-style: normal;
-    line-height: 37px;
-}
-/*Заголовок*/
-.face0{
-    font-size: 30px;
-}
-/*Перечень услуг*/
-.face1{
-    display: inline;
-    font-size: 20px;
-}
-/*Цена*/
-.face2{    
-    display: inline;
-    font-size: 20px;
-    float: right;
-}
-/*картинка маникюр*/
-.img_face{
-    position: absolute;
-    width: 319px;
-    height: 415px;
-    left: 55%;
-    top: 1165px;
-}
-
 .regist {
     background-color: #9DB9A1;
     height: 384px;
@@ -162,7 +50,7 @@
     height: 384px;
     
 }
-.footer {
+footer {
     background-color: #203331;
     height: 100px;
     
