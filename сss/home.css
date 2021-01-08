@@ -26,8 +26,8 @@ button#p {
     border-radius: 90px;
     width: 200px;
     height: 45px;
-    font-size: 18px;
-    font-weight: 400;
+    /* font-size: 18px; */
+    font-weight: 500;
     color: #203331 !important; 
     position: relative;
     left: 50%;
@@ -64,6 +64,8 @@ h1 {
 li {
     list-style-type: none;
     text-align: center;
+    color: #203331;
+    font-weight: 500;
    }
 
 /* ГЛАВНАЯ */
@@ -73,6 +75,20 @@ li {
     height: 768px;
     
 }
+img#sln {
+    width: 100%;
+}
+h2 {
+    font-weight: 500;
+    font-size: 46px !important;
+    color: #203331;
+}
+p {
+    font-size: 18px !important;
+    color: #203331;
+}
+
+
 .price {
     background-color: #ffffff;
     height: 2304px;
