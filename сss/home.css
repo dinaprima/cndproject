@@ -184,9 +184,7 @@
     padding-left: 15%;
     padding-right: 15%;
 }
-.reg_but{
-    color:#203331;
-}
+
 .par {
     position: relative;
     background-color: #ffffff;
@@ -234,10 +232,42 @@
 }
 
 .contact {
+    position: relative;
     background-color: #708A78;
     height: 384px;
     
 }
+/*Отступ сверху*/
+.mar_con{
+    position:absolute;
+    margin-top: 3%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.log_text{  
+    display: inline-block;
+    width: 300px;
+    margin: 10px 5px 15px 0px;
+
+}
+/*текст контакты*/
+.cont{
+    display: inline;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-size: 20px;
+    max-width:250px;
+    height: 20px;
+    margin-right: 20px;
+}
+
+.map{
+position: absolute;
+margin-top: 3%;
+right: 15%;
+
+}
+
 .footer {
     background-color: #203331;
     height: 100px;
