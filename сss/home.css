@@ -71,7 +71,7 @@ li {
 /* ГЛАВНАЯ */
 
 .about {
-    background-color: #ffffff;
+    background-color: #f56565;
     height: 768px;
     
 }
@@ -87,7 +87,11 @@ p {
     font-size: 18px !important;
     color: #203331;
 }
-
+.b {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 10%;
+}
 
 .price {
     background-color: #ffffff;
