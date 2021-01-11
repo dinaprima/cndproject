@@ -49,7 +49,7 @@
         <div class="cntr">
           <div class="green">
               <h1>САЛОН КРАСОТЫ KND</h1>
-              <button id="p" type="button" class="btn btn-sm">ЗАПИСАТЬСЯ</button>                    
+              <a type="button" id="p" type="button" href="#section4" class="btn btn-sm">ЗАПИСАТЬСЯ</a>                    
           </div>
           <div class="time">
             <li>Время работы:</li>
@@ -162,55 +162,44 @@
 <!--СДЕЛАТЬ ОТСТУП-->     
       <div class="regist" id="section4">
         <h3 style="text-align: center; padding-top: 5%;">Запись</h3>
-        <div class="container">
-
-        <form class="form-inline" role="form">
-          <div class ="row reg_field">
-          <div class ="col-md-4">
-          <input type="name" class="form-control mb-2 mr-sm-2" id="usr" style="border-radius: 90px;" placeholder="Имя и фамилия">
+          <div class="regist2">
+            <div class="row">          
+              <div class="col">
+                <input type="name" class="form-control mb-2 mr-sm-2" id="usr" style="border-radius: 90px;" placeholder="ФИ">                          
+              </div>
+              <div class="col">
+                <input type="email" class="form-control mb-2 mr-sm-2" id="email" style="border-radius: 90px;" placeholder="Email">
+              </div>
+              <div class="col">
+                <input type="text" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Телефон">   
+              </div>
+            </div>
+          </div>        
+          <div class="regist3">  
+            <div class="row">          
+              <div class="col">
+                <select class="form-control" style="border-radius: 90px;" id="sel1">
+                  <option>Выберите мастера</option>
+                  <option>Ольга</option>
+                  <option>Дарья</option>
+                  <option>Ангелина</option>
+                  <option>Иванна</option>
+                </select>                        
+              </div>
+              <div class="col">
+                <select class="form-control" style="border-radius: 90px;" id="sel1">
+                  <option>Выберите услугу</option>
+                  <option>Маникюр</option>
+                  <option>Педикюр</option>
+                  <option>Массаж лица</option>
+                  <option>Чистка лица</option>
+                </select>
+              </div>
+            </div>
+            <button id="reg" type="button" class="btn btn-sm">Готово</button> 
           </div>
-          <div class ="col-md-4">
-          <input type="email" class="form-control mb-2 mr-sm-2" id="email" style="border-radius: 90px;" placeholder="Email">
-            </div>
-            <div class ="col-md-4">
-              <input type="text" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Номер телефона">
-            </div>
-      
-          <div class ="col-4">
-          <select class="form-control" style="border-radius: 90px; width: 80%;" id="sel1" >
-            <option>Ольга</option>
-            <option>Дарья</option>
-            <option>Ангелина</option>
-            <option>Иванна</option>
-          </select>
-          </div>
-          <div class ="col-4">
-          <select class="form-control" style="border-radius: 90px; width: 80%;" id="sel1" >
-            <option>Маникюр</option>
-            <option>Педикюр</option>
-            <option>Массаж лица</option>
-            <option>Чистка лица</option>
-          </select>
-            </div>
-            <div class ="col-4">
-              <input type="text" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Комментарий">
-            </div>
-          
-           <div class="col-4">
-           <input type="date" class="form-control mb-2 mr-sm-2" style="border-radius: 90px; width: 80%;" placeholder="Дата">
-          </div>
-          <div class="col-4">
-           <input type="time" class="form-control mb-2 mr-sm-2" style="border-radius: 90px; width: 80%;" placeholder="Время">
-           </div>
-           <div class="col-4">
-        <button id="r" type="button" class="btn btn-primary mb-2 mr-sm-2">Записаться</button>
-           </div> 
-      </form>
       </div>
-       </div>
-        
 
-      </div>
 <!-- акции и отызывы -->
       <div class="par" id="section5">
           
@@ -236,22 +225,22 @@
                 <h12 class="cont" style="font-size: 30px; " >Контакты</h12>
 
                 <div class="log_text" style="margin-top: 60px;">
-                <img class ="cont" src="../img/inst.png">
+                <img class ="cont" src="../icon/inst.png">
                 <div class="cont">kndbeauty</div>
                 </div>
 
                 <div class="log_text">
-                  <img class ="cont" style="width:25px; height: 20px;" src="../img/mail.png">
+                  <img class ="cont" style="width:25px; height: 20px;" src="../icon/mail.png">
                 <div class="cont">knd.gmail.com</div>
                 </div>
 
                 <div class="log_text">
-                  <img class ="cont" src="../img/phone.png">
+                  <img class ="cont" src="../icon/phone.png">
                 <div class="cont">+7(977)-421-87-41</div>
                 </div>
 
                 <div class="log_text">
-                  <img class ="cont" src="../img/location.png">
+                  <img class ="cont" src="../icon/location.png">
                 <div class="cont">Лихов пер., 3с1 </div>
                 </div>
 

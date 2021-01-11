@@ -28,11 +28,12 @@ button#pop{
     color: #708A78 !important;
 }
 
-button#p {
+a#p {
     background-color: #9DB9A1;
     border-radius: 90px;
     width: 200px;
-    height: 45px;
+    height: 35px;
+    font-size: 16px;
     font-weight: 500;
     color: #203331 !important; 
     position: relative;
@@ -41,7 +42,7 @@ button#p {
     margin-top: 20px;
 }
 
-button#p:hover {
+a#p:hover {
     background-color: #708A78;
 }
 
@@ -155,12 +156,22 @@ h4{
 }
 /* УСЛУГИ */
 
+/* РЕГИСТРАЦИЯ */
 .regist {
-    position: relative;
     background-color: #9DB9A1;
     height: 384px;   
 }
-/*Записаться*/
+.regist2 {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 2%;
+}
+
+.regist3 {
+    width: 45%;
+    margin: 0 auto;
+}
+
 
 /*Поле для регистрации*/
 .reg_field{
@@ -175,13 +186,24 @@ h4{
     background-color: #ffffff;
     height: 768px;
 }
-/*кнопка*/
-button#r{
-border-radius: 90px;
-background-color:#203331; 
-border: 0px;
-color:#9DB9A1;
-width: 80%;
+   
+button#reg {
+    border-radius: 90px;
+    background-color:#203331; 
+    width: 200px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #9DB9A1 !important;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 10px;
+
+}
+
+button#reg:hover {
+    background-color: #101a19;
 }
 
 /*акции прямоугольник основной*/
