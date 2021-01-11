@@ -116,19 +116,31 @@ p {
 }
 
 /*Заголовок*/
-.manic0{
+h3{
     font-size: 30px;
 }
 /*Перечень услуг*/
-.manic1{
+h4{
     display: inline;
     font-size: 20px;
 }
 /*Цена*/
-.manic2{    
+h5{    
     display: inline;
     font-size: 20px;
     float: right;
+}
+/*Перечень услуг*/
+h7{
+    display: inline;
+    font-size: 20px;
+    float: right;
+}
+/*Цена*/
+h6{    
+    display: inline;
+    font-size: 20px;
+    float: left;
 }
 /*картинка маникюр*/
 .img_manic{
@@ -159,23 +171,6 @@ p {
 
 }
 
-/*Заголовок*/
-.hair0{
-    font-size: 30px;
-    float: right;
-}
-/*Перечень услуг*/
-.hair1{
-    display: inline;
-    font-size: 20px;
-    float: right;
-}
-/*Цена*/
-.hair2{    
-    display: inline;
-    font-size: 20px;
-    float: left;
-}
 /*картинка волосы*/
 .img_hair{
     position: absolute;
@@ -198,21 +193,7 @@ p {
     line-height: 37px;
     height: 415px;
 }
-/*Заголовок*/
-.face0{
-    font-size: 30px;
-}
-/*Перечень услуг*/
-.face1{
-    display: inline;
-    font-size: 20px;
-}
-/*Цена*/
-.face2{    
-    display: inline;
-    font-size: 20px;
-    float: right;
-}
+
 /*картинка маникюр*/
 .img_face{
     position: absolute;
@@ -260,6 +241,7 @@ border: 0px;
 color:#9DB9A1;
 width: 80%;
 }
+
 /*акции прямоугольник основной*/
 .rectangle {
     position:absolute;
@@ -287,14 +269,13 @@ width: 80%;
     background-color: transparent;
     border:3px solid #E1BFB3;   
 }
-/*акции текст*/
-.sales{
+h10{
     display: inline;
     line-height: 40px;
     font-size:25px;
     float: left;
 }
-.sales_pr{
+h11{
     display: inline;
     line-height: 40px;
     font-size:25px;
