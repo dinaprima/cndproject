@@ -1,35 +1,97 @@
+/* ГЛАВНАЯ */
 .home {
     background-color: #EEEAE7;
-    height: 700px;
+    height: 768px;
+    width: 100%;
     
 }
+
+/* меню */
+button#pop{
+ width: 100%;
+}
 .clr {
- color: #203331; 
+ color: #203331 !important; 
  margin: 15px;
  font-weight: 500;
 }
 .clr:hover {
- color: #708A78;
+ color: #708A78 !important;
 }
-.name {
-    background-color: #203331;
-    margin: 0 auto;
+/* меню */
+
+/* кнопка */
+button#p {
+    background-color: #9DB9A1;
+    border-radius: 90px;
+    width: 200px;
+    height: 45px;
+    /* font-size: 18px; */
+    font-weight: 500;
+    color: #203331 !important; 
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 20px;
+
+}
+button#p:hover {
+    background-color: #708A78;
+}
+/* кнопка */
+
+h1 {
+    font-size: 60px !important;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 80px;
+}
+.green {
     width: 824px;
     height: 312px;
-    position: absolute;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -moz-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  -o-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+    background-color: #203331;
+    margin-bottom: 20px;
+       
 }
+.cntr {
+    position: absolute;
+    top: 59%;
+    left: 50%;
+    z-index: 1;
+    transform: translate(-50%, -50%);
+
+}
+li {
+    list-style-type: none;
+    text-align: center;
+    color: #203331;
+    font-weight: 500;
+   }
+
+/* ГЛАВНАЯ */
 .about {
-    background-color: #ffffff;
+    background-color: #f56565;
     height: 768px;
     
 }
+img#sln {
+    width: 100%;
+}
+h2 {
+    font-weight: 500;
+    font-size: 46px !important;
+    color: #203331;
+}
+p {
+    font-size: 18px !important;
+    color: #203331;
+}
+.b {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
 .price {
     background-color: #ffffff;
     height: 2304px;
@@ -54,4 +116,8 @@ footer {
     background-color: #203331;
     height: 100px;
     
+}
+.navbar-toggler-icon {
+    color: black;
+    background-color: blue;
 }
