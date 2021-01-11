@@ -3,13 +3,27 @@
     height: 700px;
     
 }
-
+.clr {
+ color: #203331; 
+ margin: 15px;
+ font-weight: 500;
+}
+.clr:hover {
+ color: #708A78;
+}
 .name {
     background-color: #203331;
     margin: 0 auto;
     width: 824px;
     height: 312px;
-    
+    position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 .about {
     background-color: #ffffff;
