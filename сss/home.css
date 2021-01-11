@@ -190,6 +190,14 @@
     background-color: #ffffff;
     height: 768px;
 }
+/*кнопка*/
+button#r{
+border-radius: 90px;
+background-color:#203331; 
+border: 0px;
+color:#9DB9A1;
+width: 80%;
+}
 /*акции прямоугольник основной*/
 .rectangle {
     position:absolute;
@@ -244,6 +252,7 @@
     padding-left: 15%;
     padding-right: 15%;
 }
+/*знак и текст*/
 .log_text{  
     display: inline-block;
     width: 300px;
@@ -260,7 +269,7 @@
     height: 20px;
     margin-right: 20px;
 }
-
+/*карта*/
 .map{
 position: absolute;
 margin-top: 3%;
