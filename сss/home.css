@@ -1,4 +1,16 @@
+.home {
+    background-color: #EEEAE7;
+    height: 700px;
+    
+}
 
+.name {
+    background-color: #203331;
+    margin: 0 auto;
+    width: 824px;
+    height: 312px;
+    
+}
 .about {
     background-color: #ffffff;
     height: 768px;
