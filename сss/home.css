@@ -1,44 +1,50 @@
 /* ГЛАВНАЯ */
+
+.fone1 {   
+    background-image: url(../resources/12.png);      
+    background-position: center center;      
+    background-repeat: no-repeat;      
+    background-size: cover;        
+}
+
 .home {
-    background-color: #EEEAE7;
+    /* background-color: #EEEAE7; */
     height: 768px;
     width: 100%;
     
 }
 
-/* меню */
 button#pop{
- width: 100%;
+    width: 100%;
 }
-.clr {
- color: #203331 !important; 
- margin: 15px;
- font-weight: 500;
-}
-.clr:hover {
- color: #708A78 !important;
-}
-/* меню */
 
-/* кнопка */
-button#p {
+.clr {
+    color: #203331 !important; 
+    margin: 15px;
+    font-weight: 500;
+}
+
+.clr:hover {
+    color: #708A78 !important;
+}
+
+a#p {
     background-color: #9DB9A1;
     border-radius: 90px;
     width: 200px;
-    height: 45px;
-    /* font-size: 18px; */
+    height: 35px;
+    font-size: 16px;
     font-weight: 500;
     color: #203331 !important; 
     position: relative;
     left: 50%;
     transform: translate(-50%, 0);
     margin-top: 20px;
-
 }
-button#p:hover {
+
+a#p:hover {
     background-color: #708A78;
 }
-/* кнопка */
 
 h1 {
     font-size: 60px !important;
@@ -46,78 +52,236 @@ h1 {
     text-align: center;
     padding-top: 80px;
 }
+
 .green {
     width: 824px;
     height: 312px;
     background-color: #203331;
-    margin-bottom: 20px;
-       
+    margin-bottom: 20px;    
 }
+
 .cntr {
     position: absolute;
     top: 59%;
     left: 50%;
     z-index: 1;
     transform: translate(-50%, -50%);
-
 }
-li {
+
+li#li {
     list-style-type: none;
     text-align: center;
     color: #203331;
     font-weight: 500;
-   }
+}
 
 /* ГЛАВНАЯ */
+
+/* О НАС */
 .about {
-    background-color: #f56565;
     height: 768px;
-    
+    width: 100%;
 }
+
 img#sln {
     width: 100%;
 }
+
 h2 {
     font-weight: 500;
     font-size: 46px !important;
     color: #203331;
 }
+
 p {
     font-size: 18px !important;
     color: #203331;
+    font-weight: 400  !important;
 }
+
 .b {
     width: 65%;
     margin: 0 auto;
     padding-top: 10%;
 }
+/* О НАС */
 
+/* УСЛУГИ */
+.fone2 {   
+    background-image: url(../resources/345.png);      
+    background-position: center center;      
+    background-repeat: no-repeat;      
+    background-size: cover;   
+    width: 100%;
+    height: 80%;     
+}
 .price {
-    background-color: #ffffff;
-    height: 2304px;
+    width: 100%;
+    /* background-color: #EEEAE7; */
+    /* нужен ли фон?? */
+    height: 2100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
     
 }
+.manic {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 5%;
+}
+.face {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 15%;
+}
+.hair {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 15%;
+}
+
+h3{
+    font-size: 30px !important;
+    color: #203331;
+}
+
+h4{
+   font-size: 20px !important;
+   font-weight: 400  !important;
+   color: #203331;
+}
+
+.img_price{
+    width: 319px;
+    height: 415px;
+}
+/* УСЛУГИ */
+
+/* РЕГИСТРАЦИЯ */
 .regist {
     background-color: #9DB9A1;
-    height: 384px;
-    
+    height: 384px;  
 }
+
+.regist2 {
+    width: 55%;
+    margin: 0 auto;
+}
+
+.regist3 {
+    width: 30%;
+    margin: 0 auto;
+}
+
+button#reg {
+    border-radius: 90px;
+    background-color:#203331; 
+    width: 200px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #9DB9A1 !important;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 10px;
+
+}
+.media {
+    width: 80%;
+    margin: 0 auto;
+}
+button#reg:hover {
+    background-color: #101a19;
+}
+/* РЕГИСТРАЦИЯ */
+
+/* ОТЗЫВЫ И АКЦИИ */
 .par {
+    position: relative;
     background-color: #ffffff;
     height: 768px;
-    
+    background-image: url(../resources/78.png);      
+    background-position: center center;      
+    background-repeat: no-repeat;      
+    background-size: cover; 
 }
+
+img#tr {
+    width: 20%;
+}
+
+.otzv {
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 5%; 
+}
+
+.tor {
+    padding-top: 3%;
+}
+
+.akcii {
+    padding-top: 8%;
+}
+
+.rectangle {
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    margin: 0 auto;  
+    width: 40%;
+	border:3px solid #E1BFB3;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%203331' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+   
+   .carousel-control-next-icon {
+     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%203331' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+/* ОТЗЫВЫ И АКЦИИ */
+
+/* КОНТАКТЫ */
 .contact {
     background-color: #708A78;
-    height: 384px;
-    
+    height: 384px;  
 }
+
+li {
+    list-style-type: none;
+    /* text-align: center; */
+    color: #203331;
+    font-weight: 400;
+    font-size: 18px !important;
+}
+.cont {
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 2.7%; 
+}
+.contac {
+    display: inline;
+    font-style: normal;
+    width: 9%;
+}
+/* КОНТАКТЫ */
+
 footer {
     background-color: #203331;
-    height: 100px;
+    height: 50px;  
     
 }
-.navbar-toggler-icon {
-    color: black;
-    background-color: blue;
+
+.knd {
+    padding-top: 0.8%;
+    margin: 0 auto;
+    width: 90%;
+}
+a#cnd { 
+    color: #EEEAE7; 
+    font-weight: 300;
 }
