@@ -54,6 +54,7 @@ h1 {
 }
 
 .green {
+    margin: 0 auto;
     width: 824px;
     height: 312px;
     background-color: #203331;
@@ -61,11 +62,7 @@ h1 {
 }
 
 .cntr {
-    position: absolute;
-    top: 59%;
-    left: 50%;
-    z-index: 1;
-    transform: translate(-50%, -50%);
+    padding-top: 12%;    
 }
 
 li#li {
@@ -125,6 +122,7 @@ p {
     position: relative;
     
 }
+
 .manic {
     width: 65%;
     margin: 0 auto;
@@ -146,15 +144,16 @@ h3{
     color: #203331;
 }
 
-h4{
+h4{    
    font-size: 20px !important;
    font-weight: 400  !important;
    color: #203331;
+   
 }
 
-.img_price{
-    width: 319px;
-    height: 415px;
+.img_price{    
+    width: 100%;
+    
 }
 /* УСЛУГИ */
 
@@ -169,25 +168,15 @@ h4{
     margin: 0 auto;
 }
 
-.regist3 {
-    width: 30%;
-    margin: 0 auto;
-}
-
 button#reg {
     border-radius: 90px;
     background-color:#203331; 
-    width: 200px;
-    height: 40px;
+    width: 100%;
+    height: 100%;
     font-weight: 400;
     font-size: 16px;
     color: #9DB9A1 !important;
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, 0);
-    margin-top: 10px;
-
-}
+    }
 .media {
     width: 80%;
     margin: 0 auto;
@@ -259,14 +248,14 @@ li {
     font-size: 18px !important;
 }
 .cont {
-    width: 55%;
+    width: 65%;
     margin: 0 auto;
     padding-top: 2.7%; 
 }
 .contac {
     display: inline;
     font-style: normal;
-    width: 9%;
+    width: 23px;
 }
 /* КОНТАКТЫ */
 
@@ -284,4 +273,9 @@ footer {
 a#cnd { 
     color: #EEEAE7; 
     font-weight: 300;
+}
+
+.map {
+    width: 5px;
+    height: 5px;
 }
