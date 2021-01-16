@@ -5703,23 +5703,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pallex26\\.nuget\\packages\\": {},
+    "C:\\Users\\di-sa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pallex26\\Downloads\\KNDsalon1\\KNDsalon\\KNDsalon\\KNDsalon.csproj",
+      "projectUniqueName": "C:\\Users\\di-sa\\OneDrive\\Desktop\\cndproject\\Конечный вариант\\KNDsalon\\KNDsalon.csproj",
       "projectName": "KNDsalon",
-      "projectPath": "C:\\Users\\pallex26\\Downloads\\KNDsalon1\\KNDsalon\\KNDsalon\\KNDsalon.csproj",
-      "packagesPath": "C:\\Users\\pallex26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pallex26\\Downloads\\KNDsalon1\\KNDsalon\\KNDsalon\\obj\\",
+      "projectPath": "C:\\Users\\di-sa\\OneDrive\\Desktop\\cndproject\\Конечный вариант\\KNDsalon\\KNDsalon.csproj",
+      "packagesPath": "C:\\Users\\di-sa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\di-sa\\OneDrive\\Desktop\\cndproject\\Конечный вариант\\KNDsalon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pallex26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\di-sa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

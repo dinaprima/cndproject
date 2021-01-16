@@ -30,7 +30,7 @@
                             <a class="nav-link clr" href="#section3">Услуги</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link clr" href="#section4">Акции</a>
+                            <a class="nav-link clr" href="#section5">Акции</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link clr" href="#section5">Отзывы</a>
@@ -71,10 +71,10 @@
         <div class="about" id="section2">
             <div class="b">
                 <div class="row">
-                    <div class="col">
+                    <div class="col-lg-6 col-sm-6 col-12">
                         <img id="sln" src="../resources/salon.jpg">
                     </div>
-                    <div class="col">
+                    <div class="col-lg-6 col-sm-6 col-12">
                         <h2>KND -</h2>
                         <p>это атмосфера комфорта и совместного творчества. Модное пространсво.Светлый и уютный салон. Удобное место расположения. Одновременные услуги. Титулованные мастера с большим опытом и знанием языков. Классная музыка и вкусный кофе.</p>
                     </div>
@@ -85,7 +85,7 @@
 
     <!--услуги-->
     <div class="price fone2" id="section3">
-        <h3 style="text-align: center; padding-top: 5%;">Услуги</h3>
+        <h3 style="text-align: center;">Услуги</h3>
         <div class="manic">
             <div class="row">
                 <div class="col-lg-8 col-sm-6 col-6">
@@ -241,7 +241,7 @@
         <form action="/Home/Index" method="post" class="regist2">
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
-                    <input type="text" name="name" class="form-control mb-2 mr-sm-2" id="usr" style="border-radius: 90px;" placeholder="ФИ">
+                    <input type="text" name="name" class="form-control mb-2 mr-sm-2" id="usr" style="border-radius: 90px;" placeholder="Фамилия и имя">
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <input type="email" name="email" class="form-control mb-2 mr-sm-2" id="email" style="border-radius: 90px;" placeholder="Email">
@@ -261,23 +261,16 @@
                 <div class="col-lg-4 col-sm-6">
                     <select class="form-control" name="serviceId" style="border-radius: 90px;" id="sel2">
                         <option>Выберите услугу</option>
-                        @* Здесь ничего не долно быть *@
+
                     </select>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <input type="text" name="comment" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Комментарий">
-                </div>
-                @* Совместил дату и время, можете потом вернуть обратно)) *@
                 <div class="col-lg-4 col-sm-6">
                     <input type="datetime-local" name="DateTime_of_recording" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Время">
                 </div>
                 @*<div class="col-lg-4 col-sm-6">
-                    <input type="date" name="Data_of_recording" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Дата">
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <input type="time" name="Time_of_recording" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Время">
+                    <input type="text" class="form-control mb-2 mr-sm-2" style="border-radius: 90px;" placeholder="Комментарий">
                 </div>*@
-                <div class="col-lg-4 col-sm-12">
+                <div style="margin: 0 auto;" class="col-lg-4 col-sm-6">
                     <button id="reg" type="submit" class="btn btn-sm">Записаться</button>
                 </div>
             </div>
