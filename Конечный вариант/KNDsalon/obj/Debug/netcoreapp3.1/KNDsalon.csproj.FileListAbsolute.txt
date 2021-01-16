@@ -1,0 +1,313 @@
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.exe
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.deps.json
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.json
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.dev.json
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csprojAssemblyReference.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfoInputs.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfo.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CoreCompileInputs.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.Manifest.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.xml
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\scopedcss\bundle\KNDsalon.styles.css
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.input.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.output.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorCoreGenerate.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cache
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cs
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CopyComplete
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.dll
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.pdb
+C:\Users\tchan\source\repos\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.genruntimeconfig.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.exe
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.deps.json
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.json
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.dev.json
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csprojAssemblyReference.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfoInputs.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfo.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CoreCompileInputs.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.Manifest.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.xml
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\scopedcss\bundle\KNDsalon.styles.css
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.input.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.output.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorCoreGenerate.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cs
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CopyComplete
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.pdb
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.genruntimeconfig.cache
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\cndproject-origin-K (4)\cndproject-origin-K\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csprojAssemblyReference.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfoInputs.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfo.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CoreCompileInputs.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.MvcApplicationPartsAssemblyInfo.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.dll
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.pdb
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.json
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.exe
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.deps.json
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.json
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.dev.json
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.pdb
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\projects\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.Manifest.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.xml
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\scopedcss\bundle\KNDsalon.styles.css
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.input.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.output.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorCoreGenerate.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cache
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cs
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CopyComplete
+Q:\projects\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.genruntimeconfig.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.exe
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.deps.json
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.json
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.runtimeconfig.dev.json
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csprojAssemblyReference.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfoInputs.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.AssemblyInfo.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CoreCompileInputs.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorAssemblyInfo.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.Manifest.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\staticwebassets\KNDsalon.StaticWebAssets.xml
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\scopedcss\bundle\KNDsalon.styles.css
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.input.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.TagHelpers.output.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorCoreGenerate.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cache
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.RazorTargetAssemblyInfo.cs
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.Views.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.csproj.CopyComplete
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.dll
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.pdb
+C:\Users\pallex26\Downloads\KNDsalon1\KNDsalon\KNDsalon\obj\Debug\netcoreapp3.1\KNDsalon.genruntimeconfig.cache
