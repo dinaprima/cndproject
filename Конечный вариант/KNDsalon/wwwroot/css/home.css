@@ -1,8 +1,8 @@
 /* ГЛАВНАЯ */
-* {
+/** {
     border: 1px solid #f00;
 }
-
+*/
 .fone1 {
     background-image: url(/resources/12копия.png);
     background-position: center center;
@@ -303,10 +303,10 @@ h1 {
     }
 
     .b {
-        width: 65%;
+        width: 85%;
         margin: 0 auto;
         padding-top: 100px;
-        padding-bottom: 11%;
+        padding-bottom: 14%;
     }
 
     h1 {
@@ -414,19 +414,78 @@ h1 {
         width: 90%;
         margin: 0 auto;
         padding-top: 2.7%;
-        text-align: center;
     }
-    .map {
+      
+}
+@media screen and (max-width : 320px) {
+    .green {
+        padding-bottom: 3%;
         margin: 0 auto;
-        margin-left: 20%;
+        width: 100%;
+        height: 312px;
+        background-color: #203331;
+        margin-bottom: 20px;
+        margin-top: 50px
+    }
+
+    .b {
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 100px;
+        padding-bottom: 11%;
+    }
+
+    h1 {
+        font-size: 50px !important;
+        color: #FFFFFF;
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .manic {
+        width: 90%;
+        padding-top: 5%;
+    }
+
+    .face {
+        width: 90%;
+        padding-top: 15%;
+    }
+
+    .hair {
+        width: 90%;
+        padding-top: 15%;
+    }
+
+    .img_price {
+        width: 0%;
+    }
+
+    .regist2 {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .otzv {
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 5%;
+    }
+
+    .rectangle {
+       
+        margin: 0 auto;
+        width: 100%;
+        border: 3px solid #E1BFB3;
+    }
+
+    .cont {
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 6%;
     }
     .contact {
         background-color: #708A78;
-        height: 623px;
+        height: 620px;
     }
-
-    
-}
-@media screen and (max-width : 320px) {
-
 }
