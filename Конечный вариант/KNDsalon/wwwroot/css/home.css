@@ -1,8 +1,8 @@
 /* ГЛАВНАЯ */
-/** {
+/**{
     border: 1px solid #f00;
-}
-*/
+}*/
+
 .fone1 {
     background-image: url(/resources/12копия.png);
     background-position: center center;
@@ -295,7 +295,7 @@ h1 {
     .green {
         padding-bottom: 3%;
         margin: 0 auto;
-        width: 100%;
+        width: 80%;
         height: 312px;
         background-color: #203331;
         margin-bottom: 20px;
@@ -378,17 +378,17 @@ h1 {
     }
 
     .manic {
-        width: 100%;        
+        width: 95%;        
         padding-top: 5%;
     }
 
     .face {
-        width: 100%;        
+        width: 95%;        
         padding-top: 15%;
     }
 
     .hair {
-        width: 100%;        
+        width: 95%;        
         padding-top: 15%;
     }
     .regist2 {
@@ -415,6 +415,10 @@ h1 {
         margin: 0 auto;
         padding-top: 2.7%;
     }
+    .contact {
+        background-color: #708A78;
+        height: 340px;
+    }
       
 }
 @media screen and (max-width : 320px) {
@@ -425,21 +429,21 @@ h1 {
         height: 312px;
         background-color: #203331;
         margin-bottom: 20px;
-        margin-top: 50px
+        margin-top: 100px
     }
-
+   
     .b {
-        width: 100%;
+        width: 90%;
         margin: 0 auto;
-        padding-top: 100px;
-        padding-bottom: 11%;
+        padding-top: 1%;
+        padding-bottom: 20%;
     }
 
     h1 {
-        font-size: 50px !important;
+        font-size: 40px !important;
         color: #FFFFFF;
         text-align: center;
-        padding-top: 100px;
+        padding-top: 70px;
     }
 
     .manic {
@@ -454,7 +458,7 @@ h1 {
 
     .hair {
         width: 90%;
-        padding-top: 25%;
+        padding-top: 30%;
     }
 
     .img_price {
@@ -473,7 +477,10 @@ h1 {
     }
 
     .rectangle {
-       
+        padding-top: 1%;
+        padding-left: 1%;
+        padding-right: 5%;
+        padding-bottom: 1%;
         margin: 0 auto;
         width: 100%;
         border: 3px solid #E1BFB3;
@@ -499,4 +506,178 @@ h1 {
         font-weight: 400 !important;
         color: #203331;
     }
+    p {
+        font-size: 16px !important;
+        color: #203331;
+        font-weight: 400 !important;
+    }
+    .regist {
+        background-color: #9DB9A1;
+        height: 485px;
+        width: 100%;
+    }
+
+    .regist2 {
+        width: 55%;
+        margin: 0 auto;
+    }
+    .rtr {
+        margin-bottom: 8px;
+    }
+    button#reg {
+        border-radius: 90px;
+        background-color: #203331;
+        width: 100%;
+        height: 110%;
+        font-weight: 400;
+        font-size: 16px;
+        color: #9DB9A1 !important;
+    }
+    li {
+        list-style-type: none;
+        /* text-align: center; */
+        color: #203331;
+        font-weight: 400;
+        font-size: 16px !important;
+    }
+    li#li {
+        list-style-type: none;
+        text-align: center;
+        color: #203331;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    h3#ysl {
+        padding-bottom: 50px;
+    } 
+}
+@media screen and (max-width : 320px) {
+    .green {
+        padding-bottom: 3%;
+        margin: 0 auto;
+        width: 100%;
+        height: 312px;
+        background-color: #203331;
+        margin-bottom: 20px;
+        margin-top: 100px
+    }
+   
+    .b {
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 1%;
+        padding-bottom: 20%;
+    }
+
+    h1 {
+        font-size: 40px !important;
+        color: #FFFFFF;
+        text-align: center;
+        padding-top: 70px;
+    }
+
+    .manic {
+        width: 90%;
+        padding-top: 5%;
+    }
+
+    .face {
+        width: 90%;
+        padding-top: 15%;
+    }
+
+    .hair {
+        width: 90%;
+        padding-top: 30%;
+    }
+
+    .img_price {
+        width: 0%;
+    }
+
+    .regist2 {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .otzv {
+        width: 100%;
+        margin: 0 auto;
+        padding-top: 5%;
+    }
+
+    .rectangle {
+        padding-top: 1%;
+        padding-left: 1%;
+        padding-right: 5%;
+        padding-bottom: 1%;
+        margin: 0 auto;
+        width: 100%;
+        border: 3px solid #E1BFB3;
+    }
+
+    .cont {
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 6%;
+    }
+    .contact {
+        background-color: #708A78;
+        height: 620px;
+    }
+    h3 {
+        font-size: 24px !important;
+        color: #203331;
+        
+    }
+
+    h4 {
+        font-size: 16px !important;
+        font-weight: 400 !important;
+        color: #203331;
+    }
+    p {
+        font-size: 16px !important;
+        color: #203331;
+        font-weight: 400 !important;
+    }
+    .regist {
+        background-color: #9DB9A1;
+        height: 485px;
+        width: 100%;
+    }
+
+    .regist2 {
+        width: 55%;
+        margin: 0 auto;
+    }
+    .rtr {
+        margin-bottom: 8px;
+    }
+    button#reg {
+        border-radius: 90px;
+        background-color: #203331;
+        width: 100%;
+        height: 110%;
+        font-weight: 400;
+        font-size: 16px;
+        color: #9DB9A1 !important;
+    }
+    li {
+        list-style-type: none;
+        /* text-align: center; */
+        color: #203331;
+        font-weight: 400;
+        font-size: 16px !important;
+    }
+    li#li {
+        list-style-type: none;
+        text-align: center;
+        color: #203331;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    h3#ysl {
+        padding-bottom: 50px;
+    } 
 }
