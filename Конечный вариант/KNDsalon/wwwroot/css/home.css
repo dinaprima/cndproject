@@ -1,10 +1,11 @@
 /* ГЛАВНАЯ */
 
 .fone1 {
-    background-image: url(../resources/12.png);
+    background-image: url(/resources/12копия.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    
 
 }
 
@@ -107,7 +108,7 @@ p {
 
 /* УСЛУГИ */
 .fone2 {
-    background-image: url(../resources/345.png);
+    background-image: url(/resources/346.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -124,7 +125,7 @@ p {
     margin-right: auto;
     position: relative;
     padding-bottom: 15%;
-    padding-top: 5%;
+    
 }
 
 .manic {
@@ -198,7 +199,7 @@ button#reg:hover {
     position: relative;
     background-color: #ffffff;
     height: 768px;
-    background-image: url(../resources/78.png);
+    background-image: url(/resources/78.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
